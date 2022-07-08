@@ -1,12 +1,4 @@
-{"zhuyejiekou": [
-// zhuyejiekou(主页接口)支持底下5种接口格式
-// 比如猫影视里面的接口，只要后缀是以上5种的格式，都是可以直接复制过来使用的。
-// 最后一个接口结尾不加 , 号
-// http://xxx/api.php/v1.vod
-// https://xxx/xgapp.php/v1/
-// http://xxx/api.php/app/
-// https://xxx/xgapp.php/v2/
-// http://xxx/mogai_api.php/v1.vod
+{"zhuyejiekou":[
 {"name":"公众号","url":"http://app.269w.com/api.php/v1.vod"},
 {"name":"影视大全2（官方资源秒播）","url":"https://app.okmedcos.com/api.php/v1.vod"},
 {"name":"兔子窝（m3u8资源无广）","url":"http://cj.huimaojia.com:12345/mogai_api.php/v1.vod"},
